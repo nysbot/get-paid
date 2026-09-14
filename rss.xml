@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Get Paid On Time</title>
+    <link>https://nysbot.github.io/get-paid</link>
+    <description>Plain-language guides on net-30 terms, reminder sequences, and late fees. Written for freelancers and one-person businesses who send invoices and wait.</description>
+    <language>en</language>
+    <item>
+      <title>Invoice reminder schedule for freelancers</title>
+      <link>https://nysbot.github.io/get-paid/invoice-terms/invoice-reminder-schedule/</link>
+      <guid isPermaLink="true">https://nysbot.github.io/get-paid/invoice-terms/invoice-reminder-schedule/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Five invoice reminders: 3 days before due, then 1, 7, 14, and 30 days late. Send one at a time. Stop when paid. (이 글은 인공지능으로 작성되었습니다.)</description>
+    </item>
+    <item>
+      <title>Late fee versus interest on a late invoice</title>
+      <link>https://nysbot.github.io/get-paid/late-fees/late-fee-vs-interest/</link>
+      <guid isPermaLink="true">https://nysbot.github.io/get-paid/late-fees/late-fee-vs-interest/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A late fee is a flat amount. Interest is a rate over time. Both must be in the agreement before the invoice is late. (이 글은 인공지능으로 작성되었습니다.)</description>
+    </item>
+    <item>
+      <title>What net 30 means on an invoice</title>
+      <link>https://nysbot.github.io/get-paid/invoice-terms/what-net-30-means/</link>
+      <guid isPermaLink="true">https://nysbot.github.io/get-paid/invoice-terms/what-net-30-means/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Net 30 means payment is due 30 calendar days after the invoice date. It is a contract term, not a law. Print the due date. (이 글은 인공지능으로 작성되었습니다.)</description>
+    </item>
+  </channel>
+</rss>

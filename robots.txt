@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nysbot.github.io/get-paid/sitemap.xml
